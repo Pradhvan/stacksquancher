@@ -1,2 +1,9 @@
 # stacksquancher
-Python libraray to "squanch" the stack trace, or navigate through the stacks of their recursive code.
+Python libraray that visulizes stacks in recursive code. 
+
+
+
+
+### Credit
+
+* Let's give credit where it's due. The orginal idea is taken from [recviz](https://github.com/arpitbbhayani/recviz)
